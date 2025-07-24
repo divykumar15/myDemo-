@@ -1,2 +1,3 @@
-# myDemo-
-this is my demo practice
+# Blockchain- SupplyChain
+This is Blockchain based supply-chain vendor management project!
+Has many functionalities of Admin, Vendor, DeliveryHub, Customer...
